@@ -6,7 +6,7 @@ function App() {
 
 return(
   <section>
-    <h1>Mon premier Slider, par Maped&reg;</h1>
+    <h1>Mon premier Slider, par Mattel&reg;</h1>
     <Slider></Slider>
   </section>
 )
